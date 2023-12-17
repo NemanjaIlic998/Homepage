@@ -1,0 +1,11 @@
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Ensuring the footer spans the full width */
+  background-color: #fcc603;
+  /* Optional: For visibility */
+  border-radius: 30% 30% 0 0; }
+
+.footer-title {
+  text-align: center; }

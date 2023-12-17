@@ -1,0 +1,46 @@
+.container {
+    margin-top: 50px;
+    margin-bottom: 100px;
+
+    @media (min-width: $small) {
+        margin: 70px 20px 100px;
+    }
+
+    @media (min-width: $medium) {
+        margin-top: 100px;
+        margin-inline: 150px;
+    }
+
+    @media (min-width: $large) {
+        margin-inline: 200px;
+    }
+
+
+}
+
+.section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: red;
+}
+
+.box {
+    width: 200px;
+    height: 300px;
+    background-color: green;
+}
+
+.box-link {
+    text-decoration: none;
+    margin: 15px;
+}
+
+.box-image {
+    width: 100%;
+}
+
+.box-title {
+    margin: 0;
+    text-align: center;
+}
