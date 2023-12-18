@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "sass --watch src/styles/scss:src/styles/css",
-    "build": "cp -R src/* public/"
+    "start": "sass --watch src/styles/scss:src/styles/css"
   },
   "keywords": [],
   "author": "Nemanja Ilic",
