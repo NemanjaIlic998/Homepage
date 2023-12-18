@@ -10,10 +10,6 @@
     margin-top: 100px;
   }
 
-  @media (min-width: $large) {
-    margin-top: 200px;
-  }
-
   @media (min-width: $extraLarge) {
     width: 65%;
   }
@@ -35,8 +31,8 @@
   border-radius: 15%;
 
   @media (min-width: $medium) {
-    width: 180px;
-    height: 240px;
+    width: 160px;
+    height: 220px;
   }
 }
 
