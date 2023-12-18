@@ -48,11 +48,6 @@ body {
     margin-top: 100px;
   }
 }
-@media (min-width: 1228px) {
-  .container {
-    margin-top: 200px;
-  }
-}
 @media (min-width: 1366px) {
   .container {
     width: 65%;
@@ -76,8 +71,8 @@ body {
 }
 @media (min-width: 992px) {
   .box {
-    width: 180px;
-    height: 240px;
+    width: 160px;
+    height: 220px;
   }
 }
 
