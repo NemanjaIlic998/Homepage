@@ -29,6 +29,7 @@
   opacity: 0;
   transition: opacity 0.4s cubic-bezier(0.4, 0, 1, 1);
   border-radius: 15%;
+  transition: transform 0.6s ease-in-out, box-shadow 0.3s ease-in-out;
 
   @media (min-width: $medium) {
     width: 160px;

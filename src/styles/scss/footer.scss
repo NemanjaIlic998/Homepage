@@ -9,10 +9,10 @@
   text-align: center;
   background: linear-gradient(
     45deg,
-    #9ad0ac,
-    #92efed,
-    #adcbf7,
-    #655874
+    $light-green,
+    $light-blue,
+    $blue,
+    $purple
   ); /* Refreshing green to blue gradient */
   background-size: 400% 400%;
   color: $white-color;

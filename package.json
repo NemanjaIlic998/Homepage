@@ -1,10 +1,10 @@
 {
   "name": "homepage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "sass --watch src/styles/scss:src/styles/css"
+    "start": "sass --watch src/styles/scss:src/styles/css --style compressed"
   },
   "keywords": [],
   "author": "Nemanja Ilic",

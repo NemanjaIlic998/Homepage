@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../scss/global.scss"],"names":[],"mappings":"AAAA;EACE;;;AAGF;EACE;EACA;EACA;;;AAGF;EACE","file":"global.css"}
+{"version":3,"sourceRoot":"","sources":["../scss/global.scss","../scss/variables.scss"],"names":[],"mappings":"AAEA,EACE,sBAGF,KACE,kBACA,iBACA,oCACA,uBAGF,KACE,SAIF,oBACE,WAIF,0BACE,iBCVU,QDaZ,gCACE,WCbgB","file":"global.css"}
