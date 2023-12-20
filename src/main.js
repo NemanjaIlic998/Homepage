@@ -5,6 +5,6 @@ window.onload = () => {
   boxes.forEach((box, index) => {
     setTimeout(() => {
       box.classList.add("visible");
-    }, index * 65);
+    }, index * 90);
   });
 };
